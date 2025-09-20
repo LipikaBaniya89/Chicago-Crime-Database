@@ -1,4 +1,4 @@
-# Chicago Crime Database
+# Washington Crime Database
 
 ## Overview
 This project was developed as part of a database theory and design course and focuses on building a complete relational database system for managing and analyzing crime data. Using the Washington DC Crime Datasets 2024 from the Metropolitan Police Department, the project moves through all stages of database design — from conceptual modeling to query optimization.
